@@ -5,6 +5,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
+<a href="https://velog.io/@lee9843" target="_blank"><img src="https://img.shields.io/badge/Velog-#20C997?style=flat&logo=file:///C:/Users/LEE.K.H/Downloads/velog.svg&logoColor=FFFFFF"/></a>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
