@@ -1,17 +1,14 @@
-![image](https://github.com/KiHwanLee123/KIHwanLee123/assets/146923583/c1a7a1f7-f3b9-4114-95e9-c649d3d62b7c)<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=KiHwan%20Lee&fontSize=90" alt="헤더 이미지">
-  <br>
-
 <div align="center">
-    <img src="![image](https://github.com/KiHwanLee123/KIHwanLee123/assets/146923583/2001a163-b7fa-4346-8e14-85f977a5a0da)" alt="">  
+  <h3>안녕하세요! 데이터 사이언스와 CV, DRL, Generative model에 관심이 많은 이기환입니다. 데이터 분석과 예측 및 생성 딥러닝 모델링에 열정을 가지고 있으며, 다양한 프로젝트를 통해 실력을 향상시키고 있습니다.</h3>
+  <img src="![image](https://github.com/KiHwanLee123/KIHwanLee123/assets/146923583/2001a163-b7fa-4346-8e14-85f977a5a0da)" alt="">  
     <p>👨‍💻 데이터 사이언티스트</p>
-    <p>📊 데이터 분석과 머신러닝에 관심 있어요!</p>
-    <p>🌱 항상 새로운 것을 배우는 것을 즐깁니다.</p>
+    <p>📊 Computer Vision, DeepReinforcement leaening, Generative model에 관심 있어요!</p>
+    <p>🌱 항상 새로운 것을 배우는 것을 즐기며, 꾸준하기 위해 노력합니다.</p>
   
 
 <h2 align="center">데이터 사이언티스트</h2>
 
-<p align="center">안녕하세요! 데이터 사이언스와 머신 러닝에 관심이 많은 이기환입니다. 데이터 분석과 예측 및 생성 딥러닝 모델링에 열정을 가지고 있으며, 다양한 프로젝트를 통해 실력을 향상시키고 있습니다.</p>
+<p align="center">안녕하세요! 현재 고려대학교 수학과(Master degree)에 속해 있으며, 데이터 사이언스와 머신 러닝에 관심이 많은 이기환입니다. 데이터 분석과 예측 및 생성 딥러닝 모델링에 열정을 가지고 있으며, 다양한 프로젝트를 통해 실력을 향상시키고 있습니다.</p>
 
 
 <h2 align="center">블로그 포스트</h2>
