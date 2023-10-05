@@ -45,5 +45,5 @@
 <h2 align="center">연락하기</h2>
 
 <p align="center">
-  e-mail: lee_9723@naver.com
+  [Naver] lee_9723@naver.com <br> [Gmail] leekihwan9723@gmail.com
 </p>
