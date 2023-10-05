@@ -1,9 +1,9 @@
-<div align="center">
+![image](https://github.com/KiHwanLee123/KIHwanLee123/assets/146923583/c1a7a1f7-f3b9-4114-95e9-c649d3d62b7c)<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=KiHwan%20Lee&fontSize=90" alt="헤더 이미지">
   <br>
 
 <div align="center">
-    <img src="https://your-image-url.com" alt="프로필 배경 이미지">  
+    <img src="![image](https://github.com/KiHwanLee123/KIHwanLee123/assets/146923583/2001a163-b7fa-4346-8e14-85f977a5a0da)" alt="">  
     <p>👨‍💻 데이터 사이언티스트</p>
     <p>📊 데이터 분석과 머신러닝에 관심 있어요!</p>
     <p>🌱 항상 새로운 것을 배우는 것을 즐깁니다.</p>
