@@ -1,8 +1,14 @@
 <div align="center">
-  <h3>안녕하세요! 데이터 사이언스와 CV, DRL, Generative model에 관심이 많은 이기환입니다. 데이터 분석과 예측 및 생성 딥러닝 모델링에 열정을 가지고 있으며, 다양한 프로젝트를 통해 실력을 향상시키고 있습니다.</h3>
-  <img src="![image](https://github.com/KiHwanLee123/KIHwanLee123/assets/146923583/2001a163-b7fa-4346-8e14-85f977a5a0da)" alt="">  
+  <h3>안녕하세요! 데이터 사이언스와 CV, DRL, Bayesian Neural Network, Generative model에 관심이 많은 이기환입니다. 데이터 분석과 예측 및 생성 딥러닝 모델링에 열정을 가지고 있으며, 다양한 프로젝트를 통해 실력을 향상시키고 있습니다.</h3>
+  
+  
+  <img src="https://images.pexels.com/photos/378556/pexels-photo-378556.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">  
     <p>👨‍💻 데이터 사이언티스트</p>
-    <p>📊 Computer Vision, DeepReinforcement leaening, Generative model에 관심 있어요!</p>
+    <p>📊 Computer Vision <br>
+      DeepReinforcement leaening<br>
+      Uncertainty를 고려하는 Bayesian Neural Network<br>
+      Generative model<br>
+      에 관심 있어요!</p>
     <p>🌱 항상 새로운 것을 배우는 것을 즐기며, 꾸준하기 위해 노력합니다.</p>
   
 
@@ -25,15 +31,18 @@
 <h2 align="center">기술 스택</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Matlab-0076A8?style=flat-square&logo=matlab&logoColor=white" alt="Matlab">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras">
 </p>
+
 
 
 <h2 align="center">연락하기</h2>
 
 <p align="center">
-  이메일: lee_9723@naver.com
+  e-mail : lee_9723@naver.com
 </p>
 
