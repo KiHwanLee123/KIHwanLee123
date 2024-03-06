@@ -12,7 +12,7 @@
     <p>🌱 항상 새로운 것을 배우는 것을 즐기며, 꾸준하기 위해 노력합니다.</p>
   
 <h2 align="center">데이터 사이언티스트</h2>
-<p align="center">안녕하세요! 현재 고려대학교 수학과(Master degree)에 속해 있으며, 데이터 사이언스와 머신 러닝에 관심이 많은 이기환입니다. 수학적 이론을 바탕으로 데이터 분석과 예측 및 생성 딥러닝 모델링에 열정을 가지고 있으며, 다양한 프로젝트를 통해 실력을 향상시키고 있습니다. 깊이 있게 끝까지 파고들고자 합니다! ex) WGAN에서의 Wasserstein distance는 어디에서 부터 정의된걸까? 진정한 의미는? 실해석학의 measure theory의 optimal transport!</p>
+<p align="center">안녕하세요! 현재 고려대학교 수학과(Master degree)에 속해 있으며, 데이터 사이언스와 머신 러닝에 관심이 많은 이기환입니다. 수학적 이론을 바탕으로 데이터 분석과 예측 및 생성 딥러닝 모델링에 열정을 가지고 있으며, 다양한 프로젝트를 통해 실력을 향상시키고 있습니다. 깊이 있게 끝까지 파고들고자 합니다!<br> ex) WGAN에서의 Wasserstein distance는 어디에서 부터 정의된걸까? 진정한 의미는? 실해석학의 measure theory의 optimal transport!</p>
 <h2 align="center">블로그 포스트</h2>
 <a href="https://velog.io/@lee9843" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a><br>
 <a href="https://www.notion.so/8270c0211cd942198d2fedd25ff88169?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=black"/></a>
